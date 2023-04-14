@@ -1,0 +1,41 @@
+@font-face {
+    font-family: 'LemonMilk';
+    src : url('LEMONMILK-Light.otf')
+  }
+  
+
+#button {
+    margin-top: 10em;
+    display : block;
+}
+
+#btn {
+   margin-left : 50%;
+   margin-right: auto;
+   background-color: black;
+   border: 2px solid;
+   border-color : #5b6f7a;
+   font-family: "LemonMilk";
+   font-size : 25px;
+   font-stretch:extra-expanded;
+   color: #5b6f7a;
+
+}
+
+#btn:hover {
+    border-color: #9da6ac;
+    color : #9da6ac; 
+}
+
+
+.webgl {
+    z-index : 1;
+    width: 100%;
+    height: auto;
+}
+
+
+html {
+    background-color: #0d0c0b;
+}
+
